@@ -1,6 +1,17 @@
 {
   "videos": [
     {
+      "id": "f02f35fa-a998-4df6-8f63-3f87e8b714c1",
+      "title": "חמשת הסיבות לעבור ליוטיוב 2026",
+      "lang": "HE",
+      "duration_s": 22.4,
+      "youtube_id": "jNQXAC9IVRw",
+      "youtube_url": "https://youtu.be/jNQXAC9IVRw",
+      "thumbnail_url": "https://i.ytimg.com/vi/jNQXAC9IVRw/hqdefault.jpg",
+      "source_video": "5_raisons_youtube.mov",
+      "created_at": "2026-05-11T13:59:22.098Z"
+    },
+    {
       "id": "6e5cc818-2a4d-42c8-980f-77c5c6e121d5",
       "title": "Pourquoi YouTube est ton meilleur investissement",
       "lang": "EN",
@@ -23,6 +34,6 @@
       "created_at": "2026-05-11T13:59:19.295Z"
     }
   ],
-  "updated_at": "2026-05-11T13:59:20.735Z",
+  "updated_at": "2026-05-11T13:59:22.098Z",
   "schema": "v1"
 }
